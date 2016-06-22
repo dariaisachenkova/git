@@ -1,3 +1,4 @@
+kkk
 # Bulgarian translation of gitk po-file.
 # Copyright (C) 2014, 2015 Alexander Shopov <ash@kambanaria.org>.
 # This file is distributed under the same license as the git package.

@@ -1,5 +1,5 @@
 /*
- *  LibXDiff by Davide Libenzi ( File Differential Library )
+ * qqqq LibXDiff by Davide Libenzi ( File Differential Library )
  *  Copyright (C) 2003  Davide Libenzi
  *
  *  This library is free software; you can redistribute it and/or
