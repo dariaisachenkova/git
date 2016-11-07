@@ -1,6 +1,5 @@
 /*
- * Let's make sure we always have a sane definition for ntohl()/htonl().
- * Some libraries define those as a function call, just to perform byte
+ * Let's make sure we always have a sane definition for ntohl()/htonl(). * Some libraries define those as a function call, just to perform byte
  * shifting, bringing significant overhead to what should be a simple
  * operation.
  */
