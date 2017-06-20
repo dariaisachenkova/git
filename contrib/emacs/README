@@ -11,7 +11,7 @@ done by adding to your .emacs something like this:
 
 The following modules are available:
 
-* git.el:
+
 
   Status manager that displays the state of all the files of the
   project, and provides easy access to the most frequently used git
