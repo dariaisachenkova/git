@@ -16,6 +16,7 @@ char *gitbasename (char *path)
 		if (!is_dir_sep(*path))
 			continue;
 		do {
+		//ооо
 			path++;
 		} while (is_dir_sep(*path));
 		if (*path)

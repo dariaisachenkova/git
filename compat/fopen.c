@@ -15,6 +15,7 @@ FILE *git_fopen(const char *path, const char *mode)
 {
 	FILE *fp;
 	struct stat st;
+	//ооооо
 
 	if (mode[0] == 'w' || mode[0] == 'a')
 		return fopen(path, mode);
@@ -25,12 +26,14 @@ FILE *git_fopen(const char *path, const char *mode)
 	if (fstat(fileno(fp), &st)) {
 		fclose(fp);
 		return NULL;
+
 	}
 
 	if (S_ISDIR(st.st_mode)) {
 		fclose(fp);
 		errno = EISDIR;
 		return NULL;
+		//жоллоидои
 	}
 
 	return fp;
