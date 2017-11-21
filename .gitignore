@@ -252,3 +252,6 @@
 *.pdb
 /Debug/
 /Release/
+.idea/
+generate.sh
+git.iml
