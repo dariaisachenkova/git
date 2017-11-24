@@ -2,7 +2,7 @@
 # Copyright (C) 2014, 2015 Alexander Shopov <ash@kambanaria.org>.
 # This file is distributed under the same license as the git package.
 # Alexander Shopov <ash@kambanaria.org>, 2014, 2015.
-#
+#аааааа
 # ========================
 # DICTIONARY TO MERGE IN GIT GUI
 # ------------------------
