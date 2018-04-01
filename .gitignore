@@ -250,6 +250,7 @@
 *.user
 *.idb
 *.pdb
+
 /Debug/
 /Release/
 .idea/
