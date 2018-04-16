@@ -251,7 +251,6 @@
 *.idb
 *.pdb
 *a.txt
-/Debug/
 /Release/
 .idea/
 generate.sh
