@@ -250,6 +250,7 @@
 *.user
 *.idb
 *.pdb
+bswap.h
 *a.txt
 /Release/
 .idea/
